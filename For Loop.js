@@ -24,3 +24,9 @@ console.log(i);        // will print 1 to 10
 for(let i=1; i<=5; i++){   //i>=0   browser crash / pc crash / job gone ( overkill 💀 )
     console.log(i)
 }
+
+
+
+for(let i=1; i<=5; i++){
+    console.log("hey")        //print hey 5 times
+}
