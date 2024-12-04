@@ -30,9 +30,6 @@ This repository covers essential JavaScript topics with simple and well-document
 
 ---
 
-
-
-
 ## 🚀 How to Use  
 
 1. Open any `.js` file in your preferred code editor, such as [Visual Studio Code](https://code.visualstudio.com/).  
@@ -41,8 +38,7 @@ This repository covers essential JavaScript topics with simple and well-document
    node "1. Arithmetic.js"  
 3. Experiment with the code and modify it to deepen your understanding!
 
-
-
+---
 
 ## 🛠️ Prerequisites  
 
@@ -50,8 +46,7 @@ This repository covers essential JavaScript topics with simple and well-document
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/).  
 - Node.js (optional) for running JavaScript locally.  
 
-
-
+---
 
 ## 🤝 Contributions  
 
@@ -62,7 +57,7 @@ Contributions are welcome! If you'd like to:
 
 Feel free to **open an issue** or **submit a pull request**. Every contribution is appreciated, no matter how small.  
 
-
+---
 
 ## 📧 Contact  
 
@@ -72,6 +67,8 @@ If you have any questions, suggestions, or feedback, feel free to connect with m
 - **LinkedIn**: [Divyam Sharma](https://www.linkedin.com/in/divyam-sharma-6ba700249/)  
 - **GitHub**: [Divyam Sharma](https://github.com/YourGitHubUsername)  
 - **Email**: [divyamsharmaworks@gmail.com](mailto:divyamsharmaworks@gmail.com)  
+
+---
 
 ## 🤗 Thanks for Visiting!  
 
