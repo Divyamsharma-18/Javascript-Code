@@ -31,7 +31,9 @@ This repository covers essential JavaScript topics with simple and well-document
 ---
 
 ## 🚀 How to Use  
-
+0. Clone the repository:  
+   ```bash  
+   git clone https://github.com/Divyamsharma-18/Javascript-Code.git  
 1. Open any `.js` file in your preferred code editor, such as [Visual Studio Code](https://code.visualstudio.com/).  
 2. Run the code in your browser console or using Node.js:  
    ```bash  
