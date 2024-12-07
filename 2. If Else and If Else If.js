@@ -89,3 +89,16 @@ else if(score>=35 && score<=59){
 else(
     console.log("Fail")
 )
+
+
+
+// Example 6
+let ques=prompt("Do you want to exit this page and blast your computer?")
+if(ques){
+    console.log("I TOLD YOU!! I WARNED YOU!! NOW THERE IS NO GOING BACK!! IT'S GONNA BLAST SOOOOOOOOOOON !!")
+    console.log("3...2....1....")
+    console.log("BOOM")
+}
+else{
+    console.log("YOU'VE SAVED YOURSELF FROM ONE OF THE BIGGEST TRAGEDIES HUMANKIND HAS EVER BEEN THROUGH !!")
+}
