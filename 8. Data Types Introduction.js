@@ -8,7 +8,7 @@ let price = 5.18;                              // floating-point
 // 1. String -
 let name = 'Divit';                            // single quotes
 let greeting = "Hallo";                        // double quotes
-let message = `Hallo, ${name}!`;                  // template literal
+let message = `Hallo, ${name}!`;               // template literal
 
 // 2. Boolean -
 let isLoggedIn = true;
