@@ -8,7 +8,7 @@ let price = 5.18;                              // floating-point
 // 1. String -
 let name = 'Divit';                            // single quotes
 let greeting = "Hallo";                        // double quotes
-let message = `Hi, ${name}!`;                  // template literal
+let message = `Hallo, ${name}!`;                  // template literal
 
 // 2. Boolean -
 let isLoggedIn = true;
@@ -34,17 +34,17 @@ console.log(sym1 === sym2);                    // false, as each Symbol is uniqu
 
 // 0. Object -
 let person = {
-  name: 'Alice',
-  age: 30,
+  name: 'Divit',
+  age: 18,
   isStudent: false
 };
 
 // 1. Array -
-let numbers = [1, 2, 3, 4, 5];
+let numbers = [4, 5, 18, 29];
 
 // 2. Function - 
 function greet(name) {
-  return `Hello, ${name}`;
+  return `Hallo, ${name}`;
 }
 
 // 3. Date - 
@@ -52,13 +52,13 @@ let today = new Date();
 console.log(today.toDateString());
 
 // 4. Set (introduced in ES6) - 
-let uniqueNumbers = new Set([1, 2, 3, 3, 4]);
-console.log(uniqueNumbers);                     // Set(4) {1, 2, 3, 4}
+let uniqueNumbers = new Set([ 4, 5, 18, 29 ]);
+console.log(uniqueNumbers);                     // Set(4) { 4, 5, 18, 29 }
 
 // 5. Map (introduced in ES6) - 
 let userRoles = new Map();
-userRoles.set('Alice', 'Admin');
-userRoles.set('Bob', 'Editor');
+userRoles.set('Divit', 'Admin');
+userRoles.set('Divay', 'Editor');
 
 
 
