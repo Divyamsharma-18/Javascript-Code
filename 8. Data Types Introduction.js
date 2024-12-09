@@ -26,7 +26,7 @@ let bigNumber = 1234567890123456789012345678901234567890n;
 // 6. Symbol (introduced in ES6) -
 let sym1 = Symbol('description');
 let sym2 = Symbol('description');
-console.log(sym1 === sym2); // false, as each Symbol is unique
+console.log(sym1 === sym2);                    // false, as each Symbol is unique
 
 
 
@@ -53,7 +53,7 @@ console.log(today.toDateString());
 
 // 4. Set (introduced in ES6) - 
 let uniqueNumbers = new Set([1, 2, 3, 3, 4]);
-console.log(uniqueNumbers); // Set(4) {1, 2, 3, 4}
+console.log(uniqueNumbers);                     // Set(4) {1, 2, 3, 4}
 
 // 5. Map (introduced in ES6) - 
 let userRoles = new Map();
