@@ -26,7 +26,23 @@ This repository covers essential JavaScript topics with simple and well-document
 
 5. **Do-While Loops**  
    Discover how do-while loops ensure code runs at least once before condition checks.  
-   File: `5. Do While Loop.js`  
+   File: `5. Do While Loop.js`
+
+6. **For-of Loop**  
+   Learn how to iterate over iterable objects like arrays and strings using the `for-of` loop.  
+   File: `6. For-of loop.js`  
+
+7. **Var and Confirm**  
+   Understand the use of `var` and how to implement `confirm` dialogs for user interaction.  
+   File: `7. Var and Confirm.js`  
+
+8. **Data Types Introduction**  
+   Introduction to JavaScript's data types, including primitives and reference types.  
+   File: `8. Data Types Introduction.js`  
+
+9. **Difference between '==' and '==='**  
+   Learn the key differences between loose equality (`==`) and strict equality (`===`) in JavaScript.  
+   File: `9. Difference between '==' and '==='.js`
 
 ---
 
