@@ -44,6 +44,10 @@ This repository covers essential JavaScript topics with simple and well-document
    Learn the key differences between loose equality (`==`) and strict equality (`===`) in JavaScript.  
    File: `9. Difference between '==' and '==='.js`
 
+10. **Function Basics**  
+    Get started with JavaScript functions, including declaration, invocation, and parameters.  
+    File: `10. Function Basics.js`
+
 ---
 
 ## 🚀 How to Use  
