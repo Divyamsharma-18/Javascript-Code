@@ -48,6 +48,10 @@ This repository covers essential JavaScript topics with simple and well-document
     Get started with JavaScript functions, including declaration, invocation, and parameters.  
     File: `10. Function Basics.js`
 
+11. **Function Arithmetic**  
+    Understand how to perform arithmetic operations within functions and return results.  
+    File: `11. Function Arithmetic.js`
+
 ---
 
 ## 🚀 How to Use  
