@@ -9,6 +9,7 @@ func1(2);
 func1(29);
 
 
+
 // Example 2
 const name=(x)=>{
     console.log("My name is", x)  //print many lines with same code
@@ -16,3 +17,12 @@ const name=(x)=>{
 name("Divyam");
 name("Divit");
 name("Divay");
+
+
+
+// Example 3
+const age=(age)=>{
+    console.log("My age is",age)
+}
+age("18");
+age(18);
