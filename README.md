@@ -52,6 +52,10 @@ This repository covers essential JavaScript topics with simple and well-document
     Understand how to perform arithmetic operations within functions and return results.  
     File: `11. Function Arithmetic.js`
 
+12. **Arrow Functions**  
+    Learn the modern syntax for writing concise functions with arrow functions (`=>`).  
+    File: `12. Arrow Function.js`
+
 ---
 
 ## 🚀 How to Use  
