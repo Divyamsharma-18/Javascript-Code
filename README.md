@@ -56,6 +56,10 @@ This repository covers essential JavaScript topics with simple and well-document
     Learn the modern syntax for writing concise functions with arrow functions (`=>`).  
     File: `12. Arrow Function.js`
 
+13. **Typeof**  
+    Explore how the `typeof` operator is used to check data types in JavaScript.  
+    File: `13. Typeof.js`  
+
 ---
 
 ## 🚀 How to Use  
