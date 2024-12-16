@@ -58,7 +58,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 13. **Typeof**  
     Explore how the `typeof` operator is used to check data types in JavaScript.  
-    File: `13. Typeof.js`  
+    File: `13. Typeof.js`
+
+14. **String Basics and Manipulation**  
+    Dive into string operations like concatenation, slicing, and methods for manipulation.  
+    File: `14. String Basics and Manipulation.js` 
 
 ---
 
