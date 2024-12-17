@@ -62,7 +62,12 @@ This repository covers essential JavaScript topics with simple and well-document
 
 14. **String Basics and Manipulation**  
     Dive into string operations like concatenation, slicing, and methods for manipulation.  
-    File: `14. String Basics and Manipulation.js` 
+    File: `14. String Basics and Manipulation.js`
+
+15. **String Methods Example**  
+    Learn how to use various built-in JavaScript string methods like `substring()`, `toUpperCase()`, and `replace()`.  
+    File: `15. String Methods Example.js`  
+
 
 ---
 
