@@ -66,7 +66,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 15. **String Methods Example**  
     Learn how to use various built-in JavaScript string methods like `substring()`, `toUpperCase()`, and `replace()`.  
-    File: `15. String Methods Example.js`  
+    File: `15. String Methods Example.js`
+
+16. **Array Basics**  
+    Explore how to work with arrays, including creation, accessing elements, and common operations.  
+    File: `16. Array.js`  
 
 
 ---
