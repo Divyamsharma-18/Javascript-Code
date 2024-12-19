@@ -72,6 +72,10 @@ This repository covers essential JavaScript topics with simple and well-document
     Explore how to work with arrays, including creation, accessing elements, and common operations.  
     File: `16. Array.js`  
 
+17. **Map**  
+    Understand how to use the `Map` object in JavaScript for key-value pair operations and efficient lookups.  
+    File: `17. Map.js`  
+
 
 ---
 
