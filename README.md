@@ -78,7 +78,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 18. **Filter**  
     Learn how to use the `filter` method to create a new array containing elements that meet specific conditions.  
-    File: `18. Filter.js`  
+    File: `18. Filter.js`
+
+19. **Reduce**  
+    Master the `reduce` method to execute a reducer function on each array element, resulting in a single output value.  
+    File: `19. Reduce.js`  
 
 ---
 
