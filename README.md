@@ -76,6 +76,9 @@ This repository covers essential JavaScript topics with simple and well-document
     Understand how to use the `Map` object in JavaScript for key-value pair operations and efficient lookups.  
     File: `17. Map.js`  
 
+18. **Filter**  
+    Learn how to use the `filter` method to create a new array containing elements that meet specific conditions.  
+    File: `18. Filter.js`  
 
 ---
 
