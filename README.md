@@ -82,7 +82,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 19. **Reduce**  
     Master the `reduce` method to execute a reducer function on each array element, resulting in a single output value.  
-    File: `19. Reduce.js`  
+    File: `19. Reduce.js`
+
+20. **Alert**  
+    Explore how to use the `alert` method to display pop-up messages to users in the browser.  
+    File: `20. Alert.js`  
 
 ---
 
