@@ -86,7 +86,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 20. **Alert**  
     Explore how to use the `alert` method to display pop-up messages to users in the browser.  
-    File: `20. Alert.js`  
+    File: `20. Alert.js`
+
+21. **Math.random()**  
+    Learn how to use `Math.random()` to generate random numbers and implement randomness in your JavaScript programs.  
+    File: `21. Math.random().js` 
 
 ---
 
