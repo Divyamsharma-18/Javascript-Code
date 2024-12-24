@@ -90,7 +90,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 21. **Math.random()**  
     Learn how to use `Math.random()` to generate random numbers and implement randomness in your JavaScript programs.  
-    File: `21. Math.random().js` 
+    File: `21. Math.random().js`
+
+22. **DOM Basics**  
+    Understand the Document Object Model (DOM) and learn how to interact with HTML elements using JavaScript.  
+    File: `22. DOM Basics.js`
 
 ---
 
