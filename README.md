@@ -100,7 +100,9 @@ This repository covers essential JavaScript topics with simple and well-document
     Understand the Document Object Model (DOM) and learn how to interact with HTML elements using JavaScript.  
     File: `22. DOM Basics.js`
 
- 
+24. **Child Element**  
+    Understand how to access and manipulate child elements in the DOM using properties like `children`, `firstChild`, and `lastChild`.  
+    File: `24. Child Element.js`  
 
 
 ---
