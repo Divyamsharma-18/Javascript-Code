@@ -88,13 +88,20 @@ This repository covers essential JavaScript topics with simple and well-document
     Explore how to use the `alert` method to display pop-up messages to users in the browser.  
     File: `20. Alert.js`
 
-21. **Math.random()**  
+21. **Confirm**  
+    Learn how to use the `confirm` method to prompt users with a confirmation dialog and handle their responses.  
+    File: `23. Confirm.js` 
+
+22. **Math.random()**  
     Learn how to use `Math.random()` to generate random numbers and implement randomness in your JavaScript programs.  
     File: `21. Math.random().js`
 
-22. **DOM Basics**  
+23. **DOM Basics**  
     Understand the Document Object Model (DOM) and learn how to interact with HTML elements using JavaScript.  
     File: `22. DOM Basics.js`
+
+ 
+
 
 ---
 
