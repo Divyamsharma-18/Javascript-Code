@@ -102,7 +102,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 24. **Child Element**  
     Understand how to access and manipulate child elements in the DOM using properties like `children`, `firstChild`, and `lastChild`.  
-    File: `24. Child Element.js`  
+    File: `24. Child Element.js`
+
+25. **Table in DOM**  
+    Learn how to view HTML tables using JavaScript, including adding rows, columns, and dynamic data.  
+    File: `25. Table in DOM.js`
 
 
 ---
