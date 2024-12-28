@@ -70,41 +70,45 @@ This repository covers essential JavaScript topics with simple and well-document
 
 16. **Array Basics**  
     Explore how to work with arrays, including creation, accessing elements, and common operations.  
-    File: `16. Array.js`  
+    File: `16. Array.js`
 
-17. **Map**  
+17. **Array Methods**  
+    Explore essential array methods in JavaScript, including: `toString()`, `join()`, `pop()`, `push()`, `shift()`, `unshift()`, `delete`, `concat()`, `sort()`, `compare`, `reverse()`, `splice()`, `slice()`.  
+    File: `26. Array Methods.js`
+
+18. **Map**  
     Understand how to use the `Map` object in JavaScript for key-value pair operations and efficient lookups.  
     File: `17. Map.js`  
 
-18. **Filter**  
+19. **Filter**  
     Learn how to use the `filter` method to create a new array containing elements that meet specific conditions.  
     File: `18. Filter.js`
 
-19. **Reduce**  
+20. **Reduce**  
     Master the `reduce` method to execute a reducer function on each array element, resulting in a single output value.  
     File: `19. Reduce.js`
 
-20. **Alert**  
+21. **Alert**  
     Explore how to use the `alert` method to display pop-up messages to users in the browser.  
     File: `20. Alert.js`
 
-21. **Confirm**  
+22. **Confirm**  
     Learn how to use the `confirm` method to prompt users with a confirmation dialog and handle their responses.  
     File: `23. Confirm.js` 
 
-22. **Math.random()**  
+23. **Math.random()**  
     Learn how to use `Math.random()` to generate random numbers and implement randomness in your JavaScript programs.  
     File: `21. Math.random().js`
 
-23. **DOM Basics**  
+24. **DOM Basics**  
     Understand the Document Object Model (DOM) and learn how to interact with HTML elements using JavaScript.  
     File: `22. DOM Basics.js`
 
-24. **Child Element**  
+25. **Child Element**  
     Understand how to access and manipulate child elements in the DOM using properties like `children`, `firstChild`, and `lastChild`.  
     File: `24. Child Element.js`
 
-25. **Table in DOM**  
+26. **Table in DOM**  
     Learn how to view HTML tables using JavaScript, including adding rows, columns, and dynamic data.  
     File: `25. Table in DOM.js`
 
