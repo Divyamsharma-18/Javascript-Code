@@ -112,6 +112,10 @@ This repository covers essential JavaScript topics with simple and well-document
     Learn how to view HTML tables using JavaScript, including adding rows, columns, and dynamic data.  
     File: `25. Table in DOM.js`
 
+27. **For Each Loop**  
+    Learn how to use the `forEach` method to iterate over array elements and execute a callback function on each item.  
+    File: `27. For Each Loop.js`  
+
 
 ---
 
