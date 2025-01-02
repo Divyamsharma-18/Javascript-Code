@@ -114,7 +114,11 @@ This repository covers essential JavaScript topics with simple and well-document
 
 27. **For Each Loop**  
     Learn how to use the `forEach` method to iterate over array elements and execute a callback function on each item.  
-    File: `27. For Each Loop.js`  
+    File: `27. For Each Loop.js`
+
+28. **Console Objects**  
+    Explore various console object methods like `console.log`, `console.warn`, `console.error`, `console.time`, and more to debug and display information in the browser console.  
+    File: `28. Console Objects.js`  
 
 
 ---
