@@ -118,7 +118,12 @@ This repository covers essential JavaScript topics with simple and well-document
 
 28. **Console Objects**  
     Explore various console object methods like `console.log`, `console.warn`, `console.error`, `console.time`, and more to debug and display information in the browser console.  
-    File: `28. Console Objects.js`  
+    File: `28. Console Objects.js`
+
+29. **Element ID Classes Using Console**  
+    Learn how to access and manipulate HTML elements using their `ID` and `Class` selectors through the console with methods like `getElementById` and `getElementsByClassName`.  
+    File: `29. Element ID Classes Using Console.js`  
+
 
 
 ---
