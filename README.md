@@ -128,6 +128,10 @@ This repository covers essential JavaScript topics with simple and well-document
     Understand the difference between synchronous and asynchronous programming in JavaScript, including concepts like the event loop, callbacks, promises, and `async/await`.  
     File: `30. Synchronous & Asynchronous.js`  
 
+31. **Query Selector**  
+    Learn how to use `querySelector` to select a single element and `querySelectorAll` to select multiple elements using CSS-style selectors in JavaScript.  
+    File: `31. Query Selector.js`
+    
 
 ---
 
