@@ -124,6 +124,9 @@ This repository covers essential JavaScript topics with simple and well-document
     Learn how to access and manipulate HTML elements using their `ID` and `Class` selectors through the console with methods like `getElementById` and `getElementsByClassName`.  
     File: `29. Element ID Classes Using Console.js`  
 
+30. **Synchronous & Asynchronous**  
+    Understand the difference between synchronous and asynchronous programming in JavaScript, including concepts like the event loop, callbacks, promises, and `async/await`.  
+    File: `30. Synchronous & Asynchronous.js`  
 
 
 ---
